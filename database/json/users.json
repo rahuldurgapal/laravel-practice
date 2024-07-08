@@ -1,0 +1,32 @@
+[
+    {
+        "name": "rahul durgapal",
+        "email": "rahul@gmail.com",
+        "age": 22,
+        "city": "varanasi"
+    },
+    {
+        "name": "arjun tripathi",
+        "email": "arjun@gmail.com",
+        "age": 22,
+        "city": "chandauli"
+    },
+    {
+        "name": "aman yadav",
+        "email": "aman@gmail.com",
+        "age": 23,
+        "city": "jaunpur"
+    },
+    {
+        "name": "salman khan",
+        "email": "salman@gmail.com",
+        "age": 56,
+        "city": "mumbai"
+    },
+    {
+        "name": "sahrukh khan",
+        "email": "sarukh@gmail.com",
+        "age": 55,
+        "city": "delhi"
+    }
+]
